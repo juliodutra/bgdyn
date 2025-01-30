@@ -1,0 +1,11 @@
+apis:
+  - unsplash
+
+refreshInterval: 30  # Refresh time in minutes
+
+categories:
+  - nature
+  - technology
+  - animals
+  - space
+  - architecture
