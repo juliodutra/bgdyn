@@ -11,7 +11,7 @@ This application dynamically fetches images based on categories from external so
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/dynamic-image-service.git
+git clone https://github.com/juliodutra/bgdyn.git
 cd dynamic-image-service
 ```
 
